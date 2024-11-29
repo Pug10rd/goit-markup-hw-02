@@ -76,7 +76,6 @@ body {
 .order-button {
     border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -114,6 +113,10 @@ body {
 
 .team-section {
     background-color: #F4F4FD;
+}
+
+.team-element {
+    background-color: white;
 }
 
 .footer {
