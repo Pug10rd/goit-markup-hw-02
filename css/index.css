@@ -74,7 +74,6 @@ body {
 }
 
 .order-button {
-    border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
     color: white;
     font-family: 'Roboto', sans-serif;
